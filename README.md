@@ -13,10 +13,6 @@
   - Tideways Xhprof + Xhgui for profiling
   - Gulp for building JS and CSS 
 
-- 🌱 I’m currently learning 
-  - GO (Golang)
-  - ReactJS
-
 <!--
 **rame0/rame0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
