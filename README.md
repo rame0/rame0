@@ -11,7 +11,7 @@
 - 🛠 Test environment runs inside Docker containers and includes:
   - XDebug for debuging
   - Tideways Xhprof + Xhgui for profiling
-  - Gulp for building JS and CSS 
+  - Gulp/Webpack for building JS and CSS 
 
 <!--
 **rame0/rame0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
